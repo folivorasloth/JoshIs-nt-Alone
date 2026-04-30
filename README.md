@@ -1,3 +1,12 @@
+# Content
+
+- [Project Overview](#whatisjosh)
+- [Building](#building)
+- [Stack](#stack)
+- [Story](#thestory)
+- [About the Developer](#aboutthedeveloper)
+
+
 # Josh 🌿
 ### A shapeless wanderer looking for his form.
 
