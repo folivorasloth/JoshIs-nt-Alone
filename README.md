@@ -3,8 +3,8 @@
 - [Project Overview](#whatisjosh)
 - [Building](#building)
 - [Stack](#stack)
-- [Story](#thestory)
-- [About the Developer](#aboutthedeveloper)
+- [Story](#the)
+- [About the Developer](#about)
 
 
 # Josh 🌿
